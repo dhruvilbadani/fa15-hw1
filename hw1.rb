@@ -1,5 +1,5 @@
 def squared_sum(a, b)
-  return (a + b) * (a + b)
+  return (a + b)*(a + b)
 end
 
 def sort_array_plus_one(a)
